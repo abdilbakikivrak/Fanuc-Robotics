@@ -1,7 +1,7 @@
 # Fanuc-Robotics
 fanuc robotics forward&amp;inverse kinematics modelling and programing
 
-P[18]{
+P[X]{
    GP1:
 	UF : 0, UT : 1,	
 	J1=   -16.341 deg,	J2=   -45.318 deg,	J3=    57.020 deg,
